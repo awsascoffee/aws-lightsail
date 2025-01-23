@@ -1,7 +1,7 @@
 # AWS AS Coffee
 
 <a href="https://coffeecloud.consulting">
-<img src="https://raw.githubusercontent.com/awsascoffee/aws-lightsail/refs/heads/main/.github/banner.png" alt="Project Banner"/></a><br/>
+<img src="https://raw.githubusercontent.com/awsascoffee/aws-lightsail/refs/heads/main/.github/sign.png" alt="Project Banner"/></a><br/>
 
 
 ---
