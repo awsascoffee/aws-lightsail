@@ -1,10 +1,8 @@
 # AWS AS Coffee
 
-![AWS AS Coffee Logo](https://avatars.githubusercontent.com/u/196116764?s=200&v=4)
+<a href="https://coffeecloud.consulting">
+<img src="https://raw.githubusercontent.com/awsascoffee/aws-lightsail/refs/heads/main/.github/banner.png" alt="Project Banner"/></a><br/>
 
-A **AWS AS Coffee** nasceu com o objetivo de ser uma comunidade independente que cria exemplos práticos, aplicáveis e de fácil uso. Nosso objetivo é fomentar uma comunidade AWS que pensa fora da caixa e que valoriza o senso de partilha.
-
-Essa comunidade é patrocinada pela **Coffee Cloud**, parceira oficial da AWS, e busca ajudar entusiastas, profissionais e iniciantes a aproveitarem ao máximo os serviços da nuvem AWS.
 
 ---
 
